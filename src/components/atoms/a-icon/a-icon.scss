@@ -1,0 +1,15 @@
+.a-icon {
+    display: inline-block;
+
+    .svg-icon {
+        display: block;
+        width: 16px;
+        height: 16px;
+        color: inherit;
+        fill: inherit;
+    }
+
+    .svg-fill {
+        stroke: none;
+    }
+}
