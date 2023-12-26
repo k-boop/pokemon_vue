@@ -1,5 +1,5 @@
 ---
-to: "<% return path + 'index.ts'%>"
+to: "<% return path + 'index.js'%>"
 ---
 import <%= pascalName %> from './<%= kebabName %>.vue';
 
